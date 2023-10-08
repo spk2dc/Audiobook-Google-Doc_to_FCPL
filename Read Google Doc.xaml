@@ -127,7 +127,7 @@
                 <InArgument x:TypeArguments="s:String[]">[list.Split(vbLf, StringSplitOptions.RemoveEmptyEntries)]</InArgument>
               </Assign.Value>
             </Assign>
-            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="433.6,142.4" sap2010:WorkflowViewState.IdRef="LogMessage_3" Message="[&quot;final list: &quot;+finalList(0)]" />
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="433.6,142.4" sap2010:WorkflowViewState.IdRef="LogMessage_3" Message="[&quot;final list(0): &quot;+finalList(0)]" />
           </Sequence>
         </ActivityAction>
       </ugad:GoogleDocsApplicationScope.Body>

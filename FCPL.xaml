@@ -121,7 +121,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="606.4,142.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;FCPL list: &quot;+list(0)]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="606.4,142.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;FCPL list(0): &quot;+list(0)]" />
     <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Site" sap:VirtualizedContainerService.HintSize="606.4,486.4" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" IsCVEnabled="False" OpenMode="Always" ScopeGuid="3a89db22-bbb9-4ba5-bafc-66599babb7c7" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
