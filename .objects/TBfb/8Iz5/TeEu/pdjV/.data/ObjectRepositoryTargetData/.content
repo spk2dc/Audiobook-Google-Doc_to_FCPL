@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wEs7n4yq5kivFh_Au7bNxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.fairfaxcounty.gov/library/suggest-a-title" DesignTimeRectangle="637, 1025, 327, 28" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'To suggest'" FullSelectorArgument="&lt;webctrl aaname='To suggest a title, fill in this form.' parentid='content' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='To suggest a title, fill in this form.' check:innerText='To suggest a title, fill in this form.' /&gt;" Guid="532b96bf-f901-4e1e-aeb4-15d0fccd77b1" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Suggest a Title | Library' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="637, 569, 1167, 65" ElementType="Text" FriendlyName="'Suggest a Title'" FullSelectorArgument="&lt;webctrl parentid='content' tag='H1' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H1' aaname='Suggest a Title' check:innerText='Suggest a Title' /&gt;" ImageBase64="" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f14231509ac580450976a02fb4eedb3b.png" xmlns="">0U1u3fdqFa0WAEpYPx98E2w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

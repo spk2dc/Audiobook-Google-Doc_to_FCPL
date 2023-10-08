@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="knCjbAsQokexp2phSxmA8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHESURBVDhPYxiUgFGrZKGMRed2ZxAGsRlYBJigcgQAKzerTf/eiLDNDy8l7nv1DYRBbPtJBxNBclBVuAHIxtCND56nHHz7HxmHb3702mbioV6PRVcmO844ma2Q0CEI1YIEgDY4TD44v/Dg6/8Tzn/43w/FMHbvqTf/QXIRW5/9c5hypAvFRSATLbp2F3ktvvpy8tl3/xuPvv5feRiCQZqydz4Ds0FyIAPc5547z2vgLg3RDTTJqnd/o+/K+/9C1j8C29R9AqIYxAYZBuKDDAHRIDUgi7QLZgUCdTMyKETW6jvOuXgdZAAIgxR1HnsJNqDp0PP/rUde/F9w8S1YM4gNUwfSA9LLIBdY6G478/xrlyW3/7sCMUhRye4ncBy3/h7YdpBhIOyy+DYYO8y//lOrcE4+A6+yob5h286LNvNv/gfhddff/z/97Ov/Y4+/wPHWWx/A4iCXwNSZTz//VTG6LgsUCjzSvlml+m273phOv/g/bePd/837H6Pgyt0PwRjkGtMZl/8bTz7zV71w7m6Q5SADGJiYmESFDF0SZIKK5kuGlK/Dh+XCK9dIeab1csuqW6AmLggHlEDEiMA8xCdv2gIGBgAR9mCCi4gjdwAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Suggest a Title - Find Your Next Book - FCPL Curated Content at Fairfax County Government' /&gt;" Title="Suggest a Title - Find Your Next Book - FCPL Curated Content at Fairfax County Government" Url="https://research.fairfaxcounty.gov/find-your-next-book/suggest-a-title">
+      <imageRef attrName="InformativeScreenshot" originalValue="c657cf9641c639183b07d4db6e54eee3.jpg" xmlns="">0yqdbu8pFp0O_ZJLVhmGYBg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

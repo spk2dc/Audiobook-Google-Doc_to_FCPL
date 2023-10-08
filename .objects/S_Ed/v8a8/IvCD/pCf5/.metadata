@@ -1,0 +1,16 @@
+﻿{
+  "Name": "material",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "pCf5nCSM10qo5cUsMPijrw",
+  "Reference": "xHPak00vvkKzWk8JEnQpVg/pCf5nCSM10qo5cUsMPijrw",
+  "ParentRef": "xHPak00vvkKzWk8JEnQpVg/IvCDiYEDskaXzi9-7mLF8w",
+  "Created": "2023-09-28T21:06:58.2315991Z",
+  "Updated": "2023-09-28T21:09:36.8172192Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Form",
+  "Type": "Screen",
+  "Id": "IvCDiYEDskaXzi9-7mLF8w",
+  "Reference": "xHPak00vvkKzWk8JEnQpVg/IvCDiYEDskaXzi9-7mLF8w",
+  "ParentRef": "xHPak00vvkKzWk8JEnQpVg/v8a8BEciJU-ZpIUA72QwnQ",
+  "Created": "2023-09-27T23:54:49.010527Z",
+  "Updated": "2023-09-27T23:54:58.6843633Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
