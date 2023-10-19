@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Fm6BfkQiekKRUFdQj_rxrg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://gbo-app-znc.nintex.io/assets/embedform/iframe/index.html?id=006d554e-47bd-42eb-89fe-f2023adbb696&amp;tenancy=fairfaxcounty-639180.workflowcloud.com&amp;apimBaseUrl=https://us.nintex.io&amp;token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBV0YiLCJ3b3JrZmxvd0lkIjoiMDA2ZDU1NGUtNDdiZC00MmViLTg5ZmUtZjIwMjNhZGJiNjk2IiwidGVuYW50SWQiOiJlNzAwYTQwNi0yNmRhLTRmMTAtYjRjZi1jMzEwNjc1MTExMzYiLCJpYXQiOjE2OTc3Mzc4NDh9.vjb9TFHGfBzS5nxnW_eKQnubHnnYrsDBLui0Tj2_IHE" DesignTimeRectangle="1502, 982, 125, 41" DesignTimeScaleFactor="1.25" ElementType="Button" FriendlyName="'Submit'" FullSelectorArgument="&lt;webctrl tag='IFRAME' innertext='Suggest a Title' /&gt;&lt;webctrl tag='BUTTON' innertext=' Submit ' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' innertext='Suggest a Title' /&gt;&lt;webctrl tag='BUTTON' innertext=' Submit ' check:text='Submit' /&gt;" Guid="02b00cda-1691-4fab-88f3-450c3b12f9b7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Suggest a Title - Find Your Next Book - FCPL Curated Content at Fairfax County Government' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3f67463d406711870287122e5d838d89.png" xmlns="">0IKjsgQlxjEWe-wG86WOe_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
