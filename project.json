@@ -1,5 +1,5 @@
 {
-  "name": "Audiobook Google Doc to FCPL",
+  "name": "FCPL",
   "projectId": "97207568-5f13-413b-907d-e24db3c68c61",
   "description": "Request audiobooks on a Google Doc list from FCPL\r\n",
   "main": "Main.xaml",
