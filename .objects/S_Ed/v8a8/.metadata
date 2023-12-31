@@ -5,8 +5,11 @@
   "Reference": "xHPak00vvkKzWk8JEnQpVg/v8a8BEciJU-ZpIUA72QwnQ",
   "ParentRef": "xHPak00vvkKzWk8JEnQpVg/S_Edt5ocvEqvi3GEB4TbiQ",
   "Created": "2023-09-27T23:54:39.7433568Z",
-  "Updated": "2023-09-27T23:54:39.7433568Z",
+  "Updated": "2023-12-31T20:15:38.3577226Z",
   "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
     "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
   ]
 }
